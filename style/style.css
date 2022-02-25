@@ -1,0 +1,34 @@
+body{
+  background-color: aqua;
+}
+.size_img{
+  width: 90px;
+  height: 90px;
+  cursor: pointer;
+}
+.inp{
+  width: 30px;
+  border: none;
+  background-color: #00ffff;
+}
+.s{
+  display: none;
+}
+
+.dis{
+  display: block;
+}
+
+.again{
+  display: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icx{
+  display: inline;
+}
+
+.ico{
+  display: none;
+}
